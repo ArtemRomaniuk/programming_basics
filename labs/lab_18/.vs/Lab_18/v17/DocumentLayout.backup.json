@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\C#\\Labs\\Lab_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|I:\\C#\\Labs\\Lab_18\\lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|i:\\c#\\labs\\lab_18\\lab_18\\dialogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\dialogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|I:\\C#\\Labs\\Lab_18\\lab_18\\dialogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\dialogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|i:\\c#\\labs\\lab_18\\lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogForm.cs",
+              "DocumentMoniker": "I:\\C#\\Labs\\Lab_18\\Lab_18\\DialogForm.cs",
+              "RelativeDocumentMoniker": "Lab_18\\DialogForm.cs",
+              "ToolTip": "I:\\C#\\Labs\\Lab_18\\Lab_18\\DialogForm.cs",
+              "RelativeToolTip": "Lab_18\\DialogForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:24:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogForm.cs [Design]",
+              "DocumentMoniker": "I:\\C#\\Labs\\Lab_18\\Lab_18\\DialogForm.cs",
+              "RelativeDocumentMoniker": "Lab_18\\DialogForm.cs",
+              "ToolTip": "I:\\C#\\Labs\\Lab_18\\Lab_18\\DialogForm.cs [Design]",
+              "RelativeToolTip": "Lab_18\\DialogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:22:49.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "I:\\C#\\Labs\\Lab_18\\Lab_18\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_18\\Form1.cs",
+              "ToolTip": "I:\\C#\\Labs\\Lab_18\\Lab_18\\Form1.cs",
+              "RelativeToolTip": "Lab_18\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:46:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "I:\\C#\\Labs\\Lab_18\\Lab_18\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_18\\Form1.cs",
+              "ToolTip": "I:\\C#\\Labs\\Lab_18\\Lab_18\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab_18\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:43:12.363Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
