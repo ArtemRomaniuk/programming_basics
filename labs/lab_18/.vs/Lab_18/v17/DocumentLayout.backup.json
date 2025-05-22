@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "I:\\\u0423\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|i:\\\u0443\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|i:\\\u0443\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|i:\\\u0443\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\lab_18\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|I:\\\u0423\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|solutionrelative:lab_18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{967E74C1-C617-4A51-B9C4-21F36C7F9E35}|Lab_18\\Lab_18.csproj|i:\\\u0443\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\lab_18\\dialogform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Lab_18\\DialogForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:54:12.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:54:12.072Z"
             },
             {
               "$type": "Document",
@@ -79,20 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "I:\\\u0423\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\Lab_18\\Form1.cs",
               "RelativeDocumentMoniker": "Lab_18\\Form1.cs",
               "ToolTip": "I:\\\u0423\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\Lab_18\\Form1.cs",
               "RelativeToolTip": "Lab_18\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:46:00.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "I:\\\u0423\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\Lab_18\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Lab_18\\Form1.Designer.cs",
@@ -105,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "I:\\\u0423\u043D\u0456\u043A\\programming_basics\\labs\\lab_18\\Lab_18\\Form1.cs",
               "RelativeDocumentMoniker": "Lab_18\\Form1.cs",

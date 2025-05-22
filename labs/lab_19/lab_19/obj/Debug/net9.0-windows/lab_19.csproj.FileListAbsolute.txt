@@ -1,0 +1,17 @@
+I:\Унік\programming_basics\labs\lab_19\lab_19\bin\Debug\net9.0-windows\lab_19.exe
+I:\Унік\programming_basics\labs\lab_19\lab_19\bin\Debug\net9.0-windows\lab_19.deps.json
+I:\Унік\programming_basics\labs\lab_19\lab_19\bin\Debug\net9.0-windows\lab_19.runtimeconfig.json
+I:\Унік\programming_basics\labs\lab_19\lab_19\bin\Debug\net9.0-windows\lab_19.dll
+I:\Унік\programming_basics\labs\lab_19\lab_19\bin\Debug\net9.0-windows\lab_19.pdb
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.MainForm.resources
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.csproj.GenerateResource.cache
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.GeneratedMSBuildEditorConfig.editorconfig
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.AssemblyInfoInputs.cache
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.AssemblyInfo.cs
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.csproj.CoreCompileInputs.cache
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.sourcelink.json
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.dll
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\refint\lab_19.dll
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.pdb
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\lab_19.genruntimeconfig.cache
+I:\Унік\programming_basics\labs\lab_19\lab_19\obj\Debug\net9.0-windows\ref\lab_19.dll
