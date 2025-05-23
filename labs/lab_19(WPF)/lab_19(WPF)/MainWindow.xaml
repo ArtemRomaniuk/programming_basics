@@ -18,11 +18,13 @@
                 <ColumnDefinition/>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
+                <ColumnDefinition/>
             </Grid.ColumnDefinitions>
 
-            <Button Content="Вивід зображення" FontSize="20" Click="ShowButton_Click" Grid.Column="0"/>
-            <Button Content="Очищення зображення" FontSize="20" Click="ClearButton_Click" Grid.Column="1"/>
-            <Button Content="Вихід з програми" Click="ExitButton_Click" FontSize="20" Grid.Column="2"/>
+            <Button Content="Вивід зображення" FontSize="14" Click="ShowButton_Click" Grid.Column="0"/>
+            <Button Content="Очищення зображення" FontSize="14" Click="ClearButton_Click" Grid.Column="1"/>
+            <Button Content="Вихід з програми" Click="ExitButton_Click" FontSize="14" Grid.Column="2"/>
+            <Button Content="Пустити кроля по синусоїді" Click="AnimateBunnyButton_Click" FontSize="14" Grid.Column="3"/>
         </Grid>
 
         <Grid Grid.Row="1" ClipToBounds="True">
@@ -52,7 +54,11 @@
             </Canvas>
 
             <!--Кролик-->
-            <Canvas>
+            <Canvas x:Name="bunny" Margin="-27,0,340,-139">
+                <Canvas.RenderTransform>
+                    <TranslateTransform x:Name="CanvasTransform" X="0" Y="0"/>
+                </Canvas.RenderTransform>
+
                 <Ellipse Height="86" Canvas.Left="122" Canvas.Top="226" Width="214" Fill="FloralWhite" HorizontalAlignment="Left" VerticalAlignment="Top"/>
                 <Ellipse Height="57" Canvas.Left="286" Canvas.Top="288" Width="29" Fill="FloralWhite" HorizontalAlignment="Left" VerticalAlignment="Center"/>
                 <Ellipse Height="16" Canvas.Left="293" Canvas.Top="332" Width="34" Fill="FloralWhite" HorizontalAlignment="Left" VerticalAlignment="Top"/>
@@ -216,6 +222,8 @@
                 </Rectangle>
 
             </Canvas>
+
+
             <Ellipse HorizontalAlignment="Left" Height="236" Margin="659,-120,0,0" VerticalAlignment="Top" Width="248" Fill="Yellow">
                 <Ellipse.Effect>
                     <BlurEffect Radius="150"/>

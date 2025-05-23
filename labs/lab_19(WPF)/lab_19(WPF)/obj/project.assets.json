@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Унік\\programming_basics\\labs\\lab_19(WPF)\\lab_19(WPF)\\lab_19(WPF).csproj",
-      "projectName": "lab_19(WPF)",
-      "projectPath": "I:\\Унік\\programming_basics\\labs\\lab_19(WPF)\\lab_19(WPF)\\lab_19(WPF).csproj",
+      "projectUniqueName": "I:\\Унік\\programming_basics\\labs\\lab_19(WPF)\\lab_19(WPF)\\lab_19_20(WPF).csproj",
+      "projectName": "lab_19_20(WPF)",
+      "projectPath": "I:\\Унік\\programming_basics\\labs\\lab_19(WPF)\\lab_19(WPF)\\lab_19_20(WPF).csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
       "outputPath": "I:\\Унік\\programming_basics\\labs\\lab_19(WPF)\\lab_19(WPF)\\obj\\",
       "projectStyle": "PackageReference",
